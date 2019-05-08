@@ -466,3 +466,16 @@ blockquote::after
     color: #007bff;
     font-weight: bold;
 }
+
+/* -------------footer-----------------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: red;
+}
